@@ -1,0 +1,2 @@
+MONGODB_URI="mongodb+srv://donthimas54:um2jg6vRz6rET1YK@cluster0.dxrl9kr.mongodb.net/Node-API?retryWrites=true&w=majority&appName=Cluster0"
+PORT=3000
